@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 9.18 Alain",
+  "description": "An AI assistant for Profektus team providing strategic, organizational, and consultative support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
