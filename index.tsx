@@ -9,7 +9,7 @@ import html2canvas from 'html2canvas';
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 // Update to recommended model for Basic Text Tasks
-const MODEL_NAME = 'gemini-3-flash-preview';
+const MODEL_NAME = 'gemini-2.5-flash';
 
 // Configure DOMPurify to make links open in a new tab for better UX
 DOMPurify.addHook('afterSanitizeAttributes', function (node) {
